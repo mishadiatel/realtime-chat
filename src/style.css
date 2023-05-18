@@ -42,6 +42,7 @@ body {
   border: none;
   width: 250px;
   border-bottom: 1px solid #a7bcff;
+  outline: none;
 }
 .formContainer .formWrapper form input::placeholder {
   color: rgb(175, 175, 175);
